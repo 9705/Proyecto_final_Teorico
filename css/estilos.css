@@ -1,0 +1,60 @@
+/* Mis estilos personalizados para mi pagina web */
+
+.navbar.nav-item.nav-link{
+    color:#f58207;
+    
+}
+
+.text-orange{
+    color:#f58207;
+    font-family: 'bebas neue', sans-serif;
+    text-align: center;
+    padding-top: 100px;
+   
+}
+
+.image-perfil{
+    padding-top: 150px;
+}
+
+
+.text-titulo{
+    font-family: 'notera 2 personal use only medium', cursive;
+    padding-top: 200px;
+    color: #f58207;
+}
+
+.text{
+    padding-top: 100px;
+}
+
+.site-footer{
+    background-color:#f58207;
+    color: #fff;
+    margin-top: 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.text-final{
+    color: white;
+    font-family: 'notera 2 personal use only medium',cursive; 
+     
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) {
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width:979px;){ 
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+}
